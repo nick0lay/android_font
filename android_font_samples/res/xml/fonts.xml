@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<familyset>
+    <family>
+        <nameset>
+            <!--Font name-->
+            <name>HelveticaNeueLTStd</name>
+        </nameset>
+        <fileset>
+            <!--Font styles-->
+            <file style="normal">fonts/HelveticaNeueLTStd-LtCn.otf</file>
+            <file style="bold">fonts/HelveticaNeueLTStd-MdCn.otf</file>
+            <file style="italic">fonts/HelveticaNeueLTStd-LtCnO.otf</file>
+            <file style="bold_italic">fonts/HelveticaNeueLTStd-MdCnO.otf</file>
+        </fileset>
+    </family>
+    <family>
+        <!--There new font family can be added,
+        don't forget add font files into /assets/fonts directory and
+        put the name of the font into /values/string/font.xml-->
+    </family>
+</familyset>
